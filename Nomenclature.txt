@@ -1,0 +1,23 @@
+*******************************
+*** Canal TV H2 : 224.5 MHz ***
+*******************************
+1 x Module AUREL MAV VHF-224 HFTXMAVVHF224
+1 x Module AUREL MCA-224 HFAMPMCA
+1 x Fiche RCA femelle (jaune)
+1 x Dissipateur ML33
+1 x Micro électret
+1 x Diode 1N4001
+2 x TL081 (CMS)
+1 x Régulateur 7805 (CMS)
+3 x 220 nF (CMS)
+2 x 10 uF / 25V (CMS)
+3 x 22 uF / 25V (CMS)
+1 x Potentiomètre 500 kO
+1 x Alimentation 12V
+1 x Fiche femelle d'alimentation
+
+*******************************
+*** Canal TV 22 : 479.5 MHz ***
+*******************************
+1 x MAV-UHF-479.5  HFTXMAVUHF479-5
+1 x AMP-MCA-479.5  HFAMPMCA479-5
